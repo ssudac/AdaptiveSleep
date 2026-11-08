@@ -1,0 +1,6 @@
+{
+  "name": "AdaptiveSleep",
+  "description": "Adaptive sleep-aid dynamically modulating binaural beats and isochronic tones based on Health Connect physiological metrics, sleep stages, and smart alarm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
